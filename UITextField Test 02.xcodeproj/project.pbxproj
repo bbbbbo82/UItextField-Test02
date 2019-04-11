@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		05DC15402255ADFD00F5E12B /* UITextField Test 03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextField Test 03.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		05DC15402255ADFD00F5E12B /* UITextField Test 02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextField Test 02.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		05DC15432255ADFD00F5E12B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05DC15452255ADFD00F5E12B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		05DC15482255ADFD00F5E12B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		05DC15372255ADFD00F5E12B = {
 			isa = PBXGroup;
 			children = (
-				05DC15422255ADFD00F5E12B /* UITextField Test 03 */,
+				05DC15422255ADFD00F5E12B /* UITextField Test 02 */,
 				05DC15412255ADFD00F5E12B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		05DC15412255ADFD00F5E12B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				05DC15402255ADFD00F5E12B /* UITextField Test 03.app */,
+				05DC15402255ADFD00F5E12B /* UITextField Test 02.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		05DC15422255ADFD00F5E12B /* UITextField Test 03 */ = {
+		05DC15422255ADFD00F5E12B /* UITextField Test 02 */ = {
 			isa = PBXGroup;
 			children = (
 				05DC15432255ADFD00F5E12B /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				05DC154C2255ADFE00F5E12B /* LaunchScreen.storyboard */,
 				05DC154F2255ADFE00F5E12B /* Info.plist */,
 			);
-			path = "UITextField Test 03";
+			path = "UITextField Test 02";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		05DC153F2255ADFD00F5E12B /* UITextField Test 03 */ = {
+		05DC153F2255ADFD00F5E12B /* UITextField Test 02 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05DC15522255ADFE00F5E12B /* Build configuration list for PBXNativeTarget "UITextField Test 03" */;
+			buildConfigurationList = 05DC15522255ADFE00F5E12B /* Build configuration list for PBXNativeTarget "UITextField Test 02" */;
 			buildPhases = (
 				05DC153C2255ADFD00F5E12B /* Sources */,
 				05DC153D2255ADFD00F5E12B /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "UITextField Test 03";
+			name = "UITextField Test 02";
 			productName = "UITextField Test 03";
-			productReference = 05DC15402255ADFD00F5E12B /* UITextField Test 03.app */;
+			productReference = 05DC15402255ADFD00F5E12B /* UITextField Test 02.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 05DC153B2255ADFD00F5E12B /* Build configuration list for PBXProject "UITextField Test 03" */;
+			buildConfigurationList = 05DC153B2255ADFD00F5E12B /* Build configuration list for PBXProject "UITextField Test 02" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				05DC153F2255ADFD00F5E12B /* UITextField Test 03 */,
+				05DC153F2255ADFD00F5E12B /* UITextField Test 02 */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.dit.UITextField-Test-03";
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.dit.UITextField-Test-02";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.dit.UITextField-Test-03";
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.dit.UITextField-Test-02";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		05DC153B2255ADFD00F5E12B /* Build configuration list for PBXProject "UITextField Test 03" */ = {
+		05DC153B2255ADFD00F5E12B /* Build configuration list for PBXProject "UITextField Test 02" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05DC15502255ADFE00F5E12B /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05DC15522255ADFE00F5E12B /* Build configuration list for PBXNativeTarget "UITextField Test 03" */ = {
+		05DC15522255ADFE00F5E12B /* Build configuration list for PBXNativeTarget "UITextField Test 02" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05DC15532255ADFE00F5E12B /* Debug */,
